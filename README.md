@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ArunTellis
-- 👀 I’m interested in Open Source Contributing,coding and building social newtwork.
-- 🌱 I’m currently learning Computer Science Engineering.
-- 💞️ I’m looking to collaborate on Open Source Development.
-- 📫 How to reach me 
-- You ca reach me on Linkedin
-- https://www.linkedin.com/in/arun-tellis-968094207/
-- Github 
-- https://github.com/ArunTellis
-- 
+
